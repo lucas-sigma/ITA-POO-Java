@@ -1,0 +1,10 @@
+package carros;
+
+public class Carros {
+	int potencia, velocidade;
+	String nome;
+	
+	void acelerar() {
+		velocidade += potencia;
+	}
+}
