@@ -1,0 +1,11 @@
+package imc;
+
+public class Principal {
+	double peso, metros;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

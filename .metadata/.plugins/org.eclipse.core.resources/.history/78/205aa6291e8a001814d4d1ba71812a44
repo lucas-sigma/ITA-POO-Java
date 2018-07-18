@@ -1,0 +1,9 @@
+package imc;
+
+public class Paciente {
+	double peso, altura;
+	
+	public Paciente() {
+		
+	}
+}

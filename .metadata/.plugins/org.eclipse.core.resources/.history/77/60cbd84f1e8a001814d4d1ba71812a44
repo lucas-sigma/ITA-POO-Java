@@ -1,0 +1,10 @@
+package imc;
+
+public class Paciente {
+	double peso, altura;
+	
+	public Paciente(double peso, double altura) {
+		this.peso = peso;
+		this.altura = altura;
+	}
+}

@@ -1,0 +1,14 @@
+package comercio;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class TesteCompra {
+
+	@Test
+	public void compraAVista() {
+		Compra c = new Compra(500);
+	}
+
+}
